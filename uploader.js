@@ -2,8 +2,8 @@ var AWS = require('aws-sdk');
 fs = require('fs');
 
 AWS.config.update({
-	accessKeyId: "AKIAIT3N2QW2TBQWRUTA",
-	secretAccessKey: "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",
+	accessKeyId: "REMOVED",
+	secretAccessKey: "REMOVED",
 	signatureVersion: 'v4'
 });
 
